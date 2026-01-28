@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.npm/
+
+# Slidev
+.slidev/
+dist/
+slides-export.pdf
+slides-export/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+.DS_Store?
+
+# Build outputs
+*.log
+*.cache
+.temp/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+tmp/
+temp/
+
+# exported files
+*.pdf

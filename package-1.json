@@ -1,0 +1,31 @@
+{
+  "name": "slidev-theme-kanton-luzern",
+  "version": "2.0.0",
+  "description": "Official Slidev theme for Kanton Luzern based on Corporate Design 2024",
+  "keywords": [
+    "slidev-theme",
+    "slidev",
+    "kanton-luzern",
+    "corporate-design"
+  ],
+  "author": "Kanton Luzern",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0",
+    "slidev": ">=0.48.0"
+  },
+  "slidev": {
+    "colorSchema": "light",
+    "highlighter": "shiki",
+    "defaults": {
+      "fonts": {
+        "sans": "'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif",
+        "mono": "'Consolas', 'Monaco', 'Courier New', monospace"
+      }
+    }
+  },
+  "//": "Based on Corporate Design Kanton Luzern, Version 1.00.02, January 2024",
+  "devDependencies": {
+    "@slidev/cli": "^52.11.4"
+  }
+}

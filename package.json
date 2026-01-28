@@ -1,0 +1,25 @@
+{
+  "name": "slidev-theme-kanton-luzern",
+  "version": "1.0.0",
+  "description": "Slidev theme for Kanton Luzern based on official corporate design guidelines",
+  "keywords": [
+    "slidev-theme",
+    "slidev",
+    "kanton-luzern"
+  ],
+  "engines": {
+    "node": ">=14.0.0",
+    "slidev": ">=0.48.0"
+  },
+  "license": "MIT",
+  "slidev": {
+    "colorSchema": "light",
+    "highlighter": "shiki",
+    "defaults": {
+      "fonts": {
+        "sans": "Arial, sans-serif",
+        "mono": "Consolas, Monaco, monospace"
+      }
+    }
+  }
+}
