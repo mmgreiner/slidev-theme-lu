@@ -39,14 +39,11 @@ Dieses Theme folgt den offiziellen Corporate Design-Richtlinien des Kantons Luze
 ### Option 1: Von slidev-theme-noser starten (wie gewünscht)
 
 ```bash
-# 1. Noser Theme klonen
-git clone https://gitlab.com/31ch/slidev-theme-noser.git meine-praesentation
+# 1. Kanton Luzern Theme klonen
+git clone https://github.com/mmgreiner/slidev-theme-lu.git meine-praesentation
 cd meine-praesentation
 
-# 2. Kanton Luzern Theme-Dateien kopieren
-# (Kopieren Sie den Inhalt dieses Themes über das Noser-Theme)
-
-# 3. Dependencies installieren
+# 2. Dependencies installieren
 npm install
 # oder
 pnpm install
